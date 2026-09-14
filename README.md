@@ -1,4 +1,4 @@
-# Merhaba 👋 Ben İbrahim Karaduman
+# Hi there 👋 I'm İbrahim Karaduman
 
 ### Flutter & Web developer · Self-hosted infra enthusiast 🇹🇷
 
@@ -14,25 +14,25 @@
 
 <img src="https://raw.githubusercontent.com/delibo74/delibo74/main/assets/bilanco-banner.png" alt="bilanco" width="100%">
 
-**Kişisel finans ve borç takip uygulaması** — iOS & Android · TR / EN yayında, **21 dil geliyor**.
+**Personal finance & debt tracking app** — iOS & Android · Live in TR / EN, **21 languages coming**.
 
 [![App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6761782312)
 
-- 💸 Borç ve ödeme takibi, bakiye senkronizasyonu
-- 🔔 Akıllı hatırlatma ve bildirim sistemi
-- 🌍 Türkçe ve İngilizce yayında; 21 dile genişleyen yerelleştirme (AR, BG, CS, DA, DE, ES, FR, HI, HU, IT, JA, KO, NO, PL, PT, RO, RU, SV, ZH)
-- 🎨 Kendi tasarladığım marka kimliği: Sora typeface, `#FF6A1A`
+- 💸 Debt and payment tracking with automatic balance sync
+- 🔔 Smart reminders and notifications
+- 🌍 Live in Turkish and English; localization expanding to 21 languages (AR, BG, CS, DA, DE, ES, FR, HI, HU, IT, JA, KO, NO, PL, PT, RO, RU, SV, ZH)
+- 🎨 Brand identity designed by me: Sora typeface, `#FF6A1A`
 
-> Kaynak kodu private. Ekran görüntüleri ve detaylar için 👉 [bilanco-showcase](https://github.com/delibo74/bilanco-showcase)
+> Source code is private. Screenshots and details 👉 [bilanco-showcase](https://github.com/delibo74/bilanco-showcase)
 
 ---
 
-## 🛠️ Üzerinde Çalıştıklarım
+## 🛠️ What I'm Working On
 
-- 📱 **bilanco** — Flutter ile geliştirilen kişisel finans uygulaması
-- 📦 **ChronosStock** — çok kullanıcılı envanter sayım platformu (mobil + sunucu, OCR destekli)
-- 🖥️ **[KontroXXL](https://github.com/delibo74/KontroXXL)** — PC + TrueNAS telemetrisini 16×2 LCD'ye basan, rotary encoder ile NAS'ı uzaktan yöneten .NET uygulaması (Linux servis + Avalonia dashboard, Windows tray)
-- 🌐 **blacksmoked.net** — TrueNAS SCALE + Docker üzerinde kendi self-hosted altyapım
+- 📱 **bilanco** — personal finance app built with Flutter
+- 📦 **ChronosStock** — multi-user inventory counting platform (mobile + server, OCR-assisted)
+- 🖥️ **[KontroXXL](https://github.com/delibo74/KontroXXL)** — .NET app that pushes PC + TrueNAS telemetry to a 16×2 LCD and turns a rotary encoder into a NAS remote (Linux service + Avalonia dashboard, Windows tray)
+- 🌐 **blacksmoked.net** — my own self-hosted infrastructure on TrueNAS SCALE + Docker
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 📫 İletişim
+## 📫 Contact
 
 [![Website](https://img.shields.io/badge/blacksmoked.net-FF6A1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blacksmoked.net)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blacksmoked32@gmail.com)
