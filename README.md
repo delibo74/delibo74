@@ -1,3 +1,5 @@
+<p align="right"><b>English</b> · <a href="README.tr.md">Türkçe</a></p>
+
 # Hi 👋 I'm İbrahim Karaduman
 
 ### Flutter & Web developer · Self-hosted infra enthusiast 🇹🇷
