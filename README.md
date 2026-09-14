@@ -1,4 +1,4 @@
-# Merhaba 👋 Ben İbrahim Karaduman
+# Hi 👋 I'm İbrahim Karaduman
 
 ### Flutter & Web developer · Self-hosted infra enthusiast 🇹🇷
 
