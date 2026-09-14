@@ -14,13 +14,13 @@
 
 <img src="https://raw.githubusercontent.com/delibo74/delibo74/main/assets/bilanco-banner.png" alt="bilanco" width="100%">
 
-**Kişisel finans ve borç takip uygulaması** — iOS & Android, tam çift dilli (TR/EN).
+**Kişisel finans ve borç takip uygulaması** — iOS & Android · TR / EN yayında, **21 dil geliyor**.
 
 [![App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6761782312)
 
 - 💸 Borç ve ödeme takibi, bakiye senkronizasyonu
 - 🔔 Akıllı hatırlatma ve bildirim sistemi
-- 🌍 Türkçe ve İngilizce pazarlara yönelik yerelleştirme
+- 🌍 Türkçe ve İngilizce yayında; 21 dile genişleyen yerelleştirme (AR, BG, CS, DA, DE, ES, FR, HI, HU, IT, JA, KO, NO, PL, PT, RO, RU, SV, ZH)
 - 🎨 Kendi tasarladığım marka kimliği: Sora typeface, `#FF6A1A`
 
 > Kaynak kodu private. Ekran görüntüleri ve detaylar için 👉 [bilanco-showcase](https://github.com/delibo74/bilanco-showcase)
@@ -30,8 +30,9 @@
 ## 🛠️ Üzerinde Çalıştıklarım
 
 - 📱 **bilanco** — Flutter ile geliştirilen kişisel finans uygulaması
-- 📦 **Envanter sayım platformu** — çok kullanıcılı stok/sayım sistemi
-- 🖥️ **blacksmoked.net** — TrueNAS SCALE + Docker üzerinde kendi self-hosted altyapım
+- 📦 **ChronosStock** — çok kullanıcılı envanter sayım platformu (mobil + sunucu, OCR destekli)
+- 🖥️ **[KontroXXL](https://github.com/delibo74/KontroXXL)** — PC + TrueNAS telemetrisini 16×2 LCD'ye basan, rotary encoder ile NAS'ı uzaktan yöneten .NET uygulaması (Linux servis + Avalonia dashboard, Windows tray)
+- 🌐 **blacksmoked.net** — TrueNAS SCALE + Docker üzerinde kendi self-hosted altyapım
 
 ---
 
